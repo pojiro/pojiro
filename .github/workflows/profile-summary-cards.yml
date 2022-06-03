@@ -1,11 +1,11 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  create:
   push:
+    branches:
+      - main
   schedule: # execute every monday
     - cron: "* * * * 1"
-  workflow_dispatch:
 
 jobs:
   build:
