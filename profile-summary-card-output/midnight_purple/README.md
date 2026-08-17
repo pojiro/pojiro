@@ -15,6 +15,36 @@
 ### Each card usage
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/pojiro/pojiro/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/pojiro/pojiro/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/pojiro/pojiro/main/profile-summary-card-output/midnight_purple/3-stats.svg)
+```
+
+    
+
+---
+
 ![](./4-productive-time.svg)
 
 ```
